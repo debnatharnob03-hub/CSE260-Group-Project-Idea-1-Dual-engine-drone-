@@ -7,11 +7,11 @@ You are designing a hardware safety module for a dual-engine drone. The module r
 
 Example:
 
-Engine A	Engine B	Output
+Engine A	   Engine B	       Output
 
-001	      111	      100011
+001	          111	            100011
 
-001	      000	       000101
+001	          000	            000101
 
 ICs/Gates allowed to use:
 
